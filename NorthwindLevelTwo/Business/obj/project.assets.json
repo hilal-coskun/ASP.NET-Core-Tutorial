@@ -5762,11 +5762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\Business\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5783,11 +5783,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\Entities\\Entities.csproj"
+            "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\Entities\\Entities.csproj"
             }
           }
         }

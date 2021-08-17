@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B5RWptZlovYC6GtrwfkFt+pLM8Gu900BiPwQ1jsSbPlqczczE2IqS/i4B0SZ2/L+r4aCdX/oL8KQGtuBAW76dQ==",
+  "dgSpecHash": "uu6jFeS61BcVRIwBAAA4H6aGyhJErGrM9aZjXfhuWVzpQoQqQGXLY9xgGTHnk+JaXBcL/SbTKbgfBwCEMRbWGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

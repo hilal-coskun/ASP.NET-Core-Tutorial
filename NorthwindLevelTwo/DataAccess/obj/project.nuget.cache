@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "piJ0jhdMMmgqI3gKdqd8L2mLb514l2DDbikIQPTIo8YhU4Hsg1xX4+huM9f+EYIpdPlKjajcykDKvLLR71AvAw==",
+  "dgSpecHash": "z/Kxe0eoUlPzSoWHTrzEitOOzI0M6IJfh21R3ZoMCtRocmu99QT9+rb7Tw7v2XZwTXXqagqHYwZx6iO9Etg6vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

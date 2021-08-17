@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "huLwkBd/J8q/HxHS4DmLIUJOvpSzJw5Go1YE5bJD8s3O4kWyI3mbSplgOcoDVkgIFC7Vxr77gLwxoEcJdLO3/Q==",
+  "dgSpecHash": "7GsZTdpyfsSfnINeYH4Zn6ke7OhHu+SS6R3vfd2NX1VCf7o5SC3uB6/0ZYFXH5WIvaMfUDkAHw/rZLDdFQ2iNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\MvcWebUI\\MvcWebUI.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\MvcWebUI\\MvcWebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

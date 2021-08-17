@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wq55DbPMLhg9Y+tN3ojLpkb6iV2CljgXqZ1cTLp0QXl/E+Rmg5VFnhSPj8aHOUOUj6RaXG2wL8Ofn/+oxXI4SQ==",
+  "dgSpecHash": "e7F/Kgxw7a0aWTJ+gGygH4lLhSGtIetazoFbhntX85DGJOiFk53seUyJ88QuxXxTHow1RGvYIIUA1eF7tnQG0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Staj\\WebGelistirmeKursu\\Backend\\NorthwindLevelTwo\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
