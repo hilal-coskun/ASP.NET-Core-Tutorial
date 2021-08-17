@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\RecapDemoApp\bin\Debug\RecapDemoApp.exe.config
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\RecapDemoApp\bin\Debug\RecapDemoApp.exe
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\RecapDemoApp\bin\Debug\RecapDemoApp.pdb
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\RecapDemoApp\obj\Debug\RecapDemoApp1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\RecapDemoApp\obj\Debug\RecapDemoApp.Form1.resources
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\RecapDemoApp\obj\Debug\RecapDemoApp.Properties.Resources.resources
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\RecapDemoApp\obj\Debug\RecapDemoApp1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\RecapDemoApp\obj\Debug\RecapDemoApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\RecapDemoApp\obj\Debug\RecapDemoApp.exe
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\RecapDemoApp\obj\Debug\RecapDemoApp.pdb

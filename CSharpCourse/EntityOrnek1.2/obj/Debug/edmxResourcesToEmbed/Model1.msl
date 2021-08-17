@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbSinavOgrenciModelStoreContainer" CdmEntityContainer="DbSinavOgrenciEntities">
+    <EntitySetMapping Name="TBLDersler">
+      <EntityTypeMapping TypeName="DbSinavOgrenciModel.TBLDersler">
+        <MappingFragment StoreEntitySet="TBLDersler">
+          <ScalarProperty Name="DersID" ColumnName="DersID" />
+          <ScalarProperty Name="DersAd" ColumnName="DersAd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLNotlar">
+      <EntityTypeMapping TypeName="DbSinavOgrenciModel.TBLNotlar">
+        <MappingFragment StoreEntitySet="TBLNotlar">
+          <ScalarProperty Name="NOTID" ColumnName="NOTID" />
+          <ScalarProperty Name="OGR" ColumnName="OGR" />
+          <ScalarProperty Name="DERS" ColumnName="DERS" />
+          <ScalarProperty Name="Sinav1" ColumnName="Sinav1" />
+          <ScalarProperty Name="Sinav2" ColumnName="Sinav2" />
+          <ScalarProperty Name="Sinav3" ColumnName="Sinav3" />
+          <ScalarProperty Name="ORTALAMA" ColumnName="ORTALAMA" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLOgrenci">
+      <EntityTypeMapping TypeName="DbSinavOgrenciModel.TBLOgrenci">
+        <MappingFragment StoreEntitySet="TBLOgrenci">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AD" ColumnName="AD" />
+          <ScalarProperty Name="SOYAD" ColumnName="SOYAD" />
+          <ScalarProperty Name="FOTOGRAF" ColumnName="FOTOGRAF" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLKulupler">
+      <EntityTypeMapping TypeName="DbSinavOgrenciModel.TBLKulupler">
+        <MappingFragment StoreEntitySet="TBLKulupler">
+          <ScalarProperty Name="KulupAD" ColumnName="KulupAD" />
+          <ScalarProperty Name="KULUPID" ColumnName="KULUPID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="NOTLISTESI" FunctionName="DbSinavOgrenciModel.Store.NOTLISTESI">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DbSinavOgrenciModel.NOTLISTESI_Result">
+          <ScalarProperty Name="NOTID" ColumnName="NOTID" />
+          <ScalarProperty Name="AD_SOYAD" ColumnName="AD SOYAD" />
+          <ScalarProperty Name="Sinav1" ColumnName="Sinav1" />
+          <ScalarProperty Name="Sinav2" ColumnName="Sinav2" />
+          <ScalarProperty Name="Sinav3" ColumnName="Sinav3" />
+          <ScalarProperty Name="ORTALAMA" ColumnName="ORTALAMA" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="NOTLIST" FunctionName="DbSinavOgrenciModel.Store.NOTLIST">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DbSinavOgrenciModel.NOTLIST_Result">
+          <ScalarProperty Name="NOTID" ColumnName="NOTID" />
+          <ScalarProperty Name="AD_SOYAD" ColumnName="AD SOYAD" />
+          <ScalarProperty Name="DersAd" ColumnName="DersAd" />
+          <ScalarProperty Name="Sinav1" ColumnName="Sinav1" />
+          <ScalarProperty Name="Sinav2" ColumnName="Sinav2" />
+          <ScalarProperty Name="Sinav3" ColumnName="Sinav3" />
+          <ScalarProperty Name="ORTALAMA" ColumnName="ORTALAMA" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,20 @@
+﻿@model SaveCustomerViewModel
+
+@{
+    ViewData["Title"] = "SaveCustomer";
+}
+
+<h3 class="alert alert-success">Müşteri Ekle</h3>
+
+<h1>SaveCustomer</h1>
+<form asp-controller="Customer" asp-action="SaveCustomer">
+    ID: <input asp-for="Customer.Id" /><br />
+    AD: <input asp-for="Customer.FirstName" /><br />
+    SOYAD: <input asp-for="Customer.LastName" /><br />
+    ŞEHİR: <select asp-for="Customer.City" asp-items="Model.Cities"></select><br />
+    <button type="submit">Submit</button>
+</form>
+
+@section Scripts{ 
+    My script will be here
+}

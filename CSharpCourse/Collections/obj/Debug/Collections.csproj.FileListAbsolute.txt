@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Collections\bin\Debug\Collections.exe.config
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Collections\bin\Debug\Collections.exe
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Collections\bin\Debug\Collections.pdb
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Collections\obj\Debug\Collections.exe
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Collections\obj\Debug\Collections.pdb

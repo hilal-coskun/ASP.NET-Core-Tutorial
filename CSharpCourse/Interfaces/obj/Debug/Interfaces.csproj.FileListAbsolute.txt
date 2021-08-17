@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb

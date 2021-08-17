@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Business\obj\Debug\netcoreapp3.1\Business.pdb

@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb

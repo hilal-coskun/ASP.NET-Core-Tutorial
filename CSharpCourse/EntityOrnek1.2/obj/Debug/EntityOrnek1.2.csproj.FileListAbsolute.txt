@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\bin\Debug\EntityOrnek1.2.exe.config
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\bin\Debug\EntityOrnek1.2.exe
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\bin\Debug\EntityOrnek1.2.pdb
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\obj\Debug\EntityOrnek1.2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\obj\Debug\EntityOrnek1._2.Form1.resources
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\obj\Debug\EntityOrnek1._2.Properties.Resources.resources
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\obj\Debug\EntityOrnek1.2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\obj\Debug\EntityOrnek1.2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\obj\Debug\EntityOrnek1.2.csproj.CopyComplete
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\obj\Debug\EntityOrnek1.2.exe
+C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\EntityOrnek1.2\obj\Debug\EntityOrnek1.2.pdb

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbSinavOgrenciModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TBLDersler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="TBLNotlar" Relationship="Self.FK_TBLNotlar_TBLDersler" FromRole="TBLDersler" ToRole="TBLNotlar" />
+    <Property Name="DERSAD" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="TBLNotlar">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OgrID" Type="Int32" Nullable="false" />
+    <Property Name="DersID" Type="Int32" Nullable="false" />
+    <Property Name="Sinav1" Type="Int16" />
+    <Property Name="Sinav2" Type="Int16" />
+    <Property Name="Sinav3" Type="Int16" />
+    <Property Name="Ortalama" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="Durum" Type="Boolean" />
+    <NavigationProperty Name="TBLDersler" Relationship="Self.FK_TBLNotlar_TBLDersler" FromRole="TBLNotlar" ToRole="TBLDersler" />
+    <NavigationProperty Name="TBLOgrenci" Relationship="Self.FK_TBLNotlar_TBLOgrenci" FromRole="TBLNotlar" ToRole="TBLOgrenci" />
+  </EntityType>
+  <EntityType Name="TBLOgrenci">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Soyad" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Fotograf" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLNotlar" Relationship="Self.FK_TBLNotlar_TBLOgrenci" FromRole="TBLOgrenci" ToRole="TBLNotlar" />
+  </EntityType>
+  <Association Name="FK_TBLNotlar_TBLDersler">
+    <End Role="TBLDersler" Type="Self.TBLDersler" Multiplicity="1" />
+    <End Role="TBLNotlar" Type="Self.TBLNotlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLDersler">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLNotlar">
+        <PropertyRef Name="DersID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLNotlar_TBLOgrenci">
+    <End Role="TBLOgrenci" Type="Self.TBLOgrenci" Multiplicity="1" />
+    <End Role="TBLNotlar" Type="Self.TBLNotlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOgrenci">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLNotlar">
+        <PropertyRef Name="OgrID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DbSinavOgrenciEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TBLDersler" EntityType="Self.TBLDersler" />
+    <EntitySet Name="TBLNotlar" EntityType="Self.TBLNotlar" />
+    <EntitySet Name="TBLOgrenci" EntityType="Self.TBLOgrenci" />
+    <AssociationSet Name="FK_TBLNotlar_TBLDersler" Association="Self.FK_TBLNotlar_TBLDersler">
+      <End Role="TBLDersler" EntitySet="TBLDersler" />
+      <End Role="TBLNotlar" EntitySet="TBLNotlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLNotlar_TBLOgrenci" Association="Self.FK_TBLNotlar_TBLOgrenci">
+      <End Role="TBLOgrenci" EntitySet="TBLOgrenci" />
+      <End Role="TBLNotlar" EntitySet="TBLNotlar" />
+    </AssociationSet>
+    <EntitySet Name="TBLKulupler" EntityType="DbSinavOgrenciModel.TBLKulupler" />
+  </EntityContainer>
+  <EntityType Name="TBLKulupler">
+    <Key>
+      <PropertyRef Name="KulupID" />
+    </Key>
+    <Property Name="KulupID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KulpAd" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+</Schema>

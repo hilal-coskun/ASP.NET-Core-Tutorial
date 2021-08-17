@@ -1,0 +1,25 @@
+﻿@model  CustomerListViewModel
+
+@{
+    ViewData["Title"] = "Index3";
+}
+ 
+<table>
+    @foreach (var customer in Model.Customers)
+    {
+        <tr>
+            <td>@customer.Id</td>
+            <td>@customer.FirstName</td>
+            <td>@customer.LastName</td>
+            <td>@customer.City</td>
+        </tr>
+    }
+</table>
+<table>
+    @foreach (var shop in Model.Shops)
+    {
+        <tr>
+            <td>@shop</td>
+        </tr>
+    }
+</table>

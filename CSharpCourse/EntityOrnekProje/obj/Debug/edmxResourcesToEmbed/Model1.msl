@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbSinavOgrenciModelStoreContainer" CdmEntityContainer="DbSinavOgrenciEntities">
+    <EntitySetMapping Name="TBLDersler">
+      <EntityTypeMapping TypeName="DbSinavOgrenciModel.TBLDersler">
+        <MappingFragment StoreEntitySet="TBLDersler">
+          <ScalarProperty Name="DERSAD" ColumnName="DERSAD" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLNotlar">
+      <EntityTypeMapping TypeName="DbSinavOgrenciModel.TBLNotlar">
+        <MappingFragment StoreEntitySet="TBLNotlar">
+          <ScalarProperty Name="ID" ColumnName="NOTID" />
+          <ScalarProperty Name="OgrID" ColumnName="OgrID" />
+          <ScalarProperty Name="DersID" ColumnName="DersID" />
+          <ScalarProperty Name="Sinav1" ColumnName="Sinav1" />
+          <ScalarProperty Name="Sinav2" ColumnName="Sinav2" />
+          <ScalarProperty Name="Sinav3" ColumnName="Sinav3" />
+          <ScalarProperty Name="Ortalama" ColumnName="Ortalama" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLOgrenci">
+      <EntityTypeMapping TypeName="DbSinavOgrenciModel.TBLOgrenci">
+        <MappingFragment StoreEntitySet="TBLOgrenci">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Fotograf" ColumnName="Fotograf" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLKulupler">
+      <EntityTypeMapping TypeName="DbSinavOgrenciModel.TBLKulupler">
+        <MappingFragment StoreEntitySet="TBLKulupler">
+          <ScalarProperty Name="KulpAd" ColumnName="KulpAd" />
+          <ScalarProperty Name="KulupID" ColumnName="KulupID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
