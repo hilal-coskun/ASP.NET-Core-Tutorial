@@ -10,3 +10,15 @@ C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Entities
 C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
 C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

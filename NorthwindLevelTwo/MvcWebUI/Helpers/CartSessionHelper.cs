@@ -31,7 +31,7 @@ namespace MvcWebUI.Helpers
                 cartToCheck = _httpContextAccessor.HttpContext.Session.GetObject<Cart>(key);
             }
 
-            return cartToCheck();
+            return cartToCheck;
         }
 
         public void SetCart(string key, Cart cart)
