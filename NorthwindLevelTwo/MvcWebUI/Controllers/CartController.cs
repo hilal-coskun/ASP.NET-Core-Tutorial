@@ -2,6 +2,7 @@
 using Entities.Concrete;
 using Microsoft.AspNetCore.Mvc;
 using MvcWebUI.Helpers;
+using MvcWebUI.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,6 +34,16 @@ namespace MvcWebUI.Controllers
             //sepeti session a ekleriz
             _cartSessionHelper.SetCart("cart", cart);
             return RedirectToAction("Index", "Product");
+        }
+
+        public IActionResult Index()
+        {
+            var model = new CartListViewModel
+            {
+                Cart = _cartSessionHelper.GetCart("cart")
+            };
+
+            return View(model);
         }
 
         public IActionResult RemoveFromCart(int productId)

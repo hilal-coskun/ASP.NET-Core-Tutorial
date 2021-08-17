@@ -316,3 +316,4 @@ C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\MvcWebUI\obj\Debug\net
 C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.Views.pdb
 C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.csproj.CopyComplete
 C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\ASP.NET-Core\NorthwindLevelTwo\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
