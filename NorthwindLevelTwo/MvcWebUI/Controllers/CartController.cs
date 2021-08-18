@@ -76,6 +76,10 @@ namespace MvcWebUI.Controllers
         [HttpPost]
         public IActionResult Complete(ShippingDetail shippingDetail)
         {
+            if (ModelState.IsValid)
+            {
+                return View();
+            }
             TempData.Add("message", "Siparişiniz başarıyla tamamlandı");
             //helper kullanarak cart temizlendi
             _cartSessionHelper.Clear();
