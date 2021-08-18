@@ -76,7 +76,7 @@ namespace MvcWebUI.Controllers
         [HttpPost]
         public IActionResult Complete(ShippingDetail shippingDetail)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 return View();
             }

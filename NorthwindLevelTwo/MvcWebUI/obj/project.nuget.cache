@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7GsZTdpyfsSfnINeYH4Zn6ke7OhHu+SS6R3vfd2NX1VCf7o5SC3uB6/0ZYFXH5WIvaMfUDkAHw/rZLDdFQ2iNw==",
+  "dgSpecHash": "0GNE9d131OrU6qtvbtljGW/dQ5DVxxYQKehtN+WaxFr5Xd4GYzYUAV5Ow9g1huOzZ7j2f2rEnJihqwozhknMHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\MvcWebUI\\MvcWebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
