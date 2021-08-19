@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.pdb

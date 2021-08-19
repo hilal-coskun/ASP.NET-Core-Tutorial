@@ -7,3 +7,6 @@ C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Entities\obj\Debug\netc
 C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\USER\source\repos\ASP.NET-Core\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
