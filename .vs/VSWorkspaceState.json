@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\NorthwindLevelTwo",
     "\\NorthwindLevelTwo\\MvcWebUI",
     "\\NorthwindLevelTwo\\MvcWebUI\\Controllers",
     "\\NorthwindLevelTwo\\MvcWebUI\\Views",
     "\\NorthwindLevelTwo\\MvcWebUI\\Views\\Cart"
   ],
-  "SelectedNode": "\\NorthwindLevelTwo\\MvcWebUI\\Views\\Cart\\Complete.cshtml",
+  "SelectedNode": "\\NorthwindLevelTwo",
   "PreviewInSolutionExplorer": false
 }
