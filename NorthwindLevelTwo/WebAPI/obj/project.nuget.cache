@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uu6jFeS61BcVRIwBAAA4H6aGyhJErGrM9aZjXfhuWVzpQoQqQGXLY9xgGTHnk+JaXBcL/SbTKbgfBwCEMRbWGA==",
+  "dgSpecHash": "uRcnb8UOAxVQBuuPZaZpG2XOIwAuRWDgoQqDfBceOuukXoj48u/gWpdlgdvB8SkFyvRHBgM9BRCUxeO6cQMEFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\ASP.NET-Core\\NorthwindLevelTwo\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

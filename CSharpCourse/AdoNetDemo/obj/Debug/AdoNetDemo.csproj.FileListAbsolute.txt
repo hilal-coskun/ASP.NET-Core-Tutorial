@@ -8,3 +8,13 @@ C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\AdoNetDemo\ob
 C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.exe
 C:\Users\USER\Desktop\Staj\WebGelistirmeKursu\Backend\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
+C:\Users\USER\source\repos\ASP.NET-Core\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\USER\source\repos\ASP.NET-Core\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\USER\source\repos\ASP.NET-Core\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\USER\source\repos\ASP.NET-Core\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ASP.NET-Core\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\USER\source\repos\ASP.NET-Core\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\USER\source\repos\ASP.NET-Core\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ASP.NET-Core\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ASP.NET-Core\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\USER\source\repos\ASP.NET-Core\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.pdb

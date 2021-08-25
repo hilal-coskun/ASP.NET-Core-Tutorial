@@ -90,5 +90,10 @@ namespace EntityOrnekProje
             db.SaveChanges();
             MessageBox.Show("Öğrenci güncellendi");
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

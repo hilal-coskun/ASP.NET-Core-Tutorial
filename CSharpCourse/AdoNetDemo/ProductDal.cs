@@ -66,7 +66,6 @@ namespace AdoNetDemo
 
             SqlCommand command = new SqlCommand("Update Products set Name=@name, UnitPrice=@unitPrice, StockAmount=@stockAmount where Id=@id", _connection);
 
-            //parametre var ise
             command.Parameters.AddWithValue("@name", product.Name);
             command.Parameters.AddWithValue("@unitPrice", product.UnitPrice);
             command.Parameters.AddWithValue("@stockAmount", product.StockAmount);

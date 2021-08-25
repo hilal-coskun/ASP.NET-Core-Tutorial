@@ -52,6 +52,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ENTİTY2", "ENTİTY2", "{66
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityOrnek1.2", "EntityOrnek1.2\EntityOrnek1.2.csproj", "{31DDF8EB-3A06-4810-8135-348D9A5C9C59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExpressions", "LinqExpressions\LinqExpressions.csproj", "{D796A583-B7BF-4520-BD3D-130B45029AAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,6 +140,10 @@ Global
 		{31DDF8EB-3A06-4810-8135-348D9A5C9C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31DDF8EB-3A06-4810-8135-348D9A5C9C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31DDF8EB-3A06-4810-8135-348D9A5C9C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D796A583-B7BF-4520-BD3D-130B45029AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D796A583-B7BF-4520-BD3D-130B45029AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D796A583-B7BF-4520-BD3D-130B45029AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D796A583-B7BF-4520-BD3D-130B45029AAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

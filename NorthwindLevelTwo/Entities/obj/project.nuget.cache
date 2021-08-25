@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BE7t7Rw1bSpMWZKuHXAH8MamrxnuAkpZ0SrTnP69uDYolFmJ07YAmiMGOE9tieR79UIE22g99zQtvYY2zWF95g==",
+  "dgSpecHash": "6BH7gYiG06GroPSoUs8ho7atdafs+GDOd/zGqLX7lgdDaDz9oWvhVDtsumUc6lVM4SPaPwuSKhfOsimZaKJ1oA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\ASP.NET-Core\\NorthwindLevelTwo\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\ASP.NET-Core\\NorthwindLevelTwo\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
